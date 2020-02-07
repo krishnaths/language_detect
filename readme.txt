@@ -3,6 +3,8 @@
   o	Scikitlearn
   o	Numpy
   o	pandas
+• install the required libraries using
+  o	pip install -r requirements.txt
 •	Place the main.py file in any folder of your choice:
 •	Create a new folder called “collected” in the same folder as main.py.
 •	Download the zip file from the public URL.
